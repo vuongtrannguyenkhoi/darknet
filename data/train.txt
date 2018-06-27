@@ -1,3 +1,18 @@
+data/img/ha1.jpg
+data/img/ha10.jpg
+data/img/ha2.jpg
+data/img/ha3.jpg
+data/img/ha4.jpg
+data/img/ha5.jpg
+data/img/ha6.jpg
+data/img/ha7.jpg
+data/img/ha8.jpg
+data/img/ha9.jpg
+data/img/minhhang1.jpg
+data/img/minhhang10.jpg
+data/img/minhhang2.jpg
+data/img/minhhang3.jpg
+data/img/minhhang4.jpg
 data/img/ngan1.jpg
 data/img/ngan10.jpg
 data/img/ngan2.jpg
@@ -8,3 +23,8 @@ data/img/ngan6.jpg
 data/img/ngan7.jpg
 data/img/ngan8.jpg
 data/img/ngan9.jpg
+data/img/minhhang5.jpg
+data/img/minhhang6.jpg
+data/img/minhhang7.jpg
+data/img/minhhang8.jpg
+data/img/minhhang9.jpg
