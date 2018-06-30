@@ -1,5 +1,0 @@
-data/khangan/ngan1.jpg
-data/khangan/ngan2.jpg
-data/khangan/ngan3.jpg
-data/khangan/ngan4.jpg
-data/khangan/ngan5.jpg

@@ -1,5 +1,0 @@
-classes= 1
-train  = data/train-khangan.txt
-valid  = data/train-khangan.txt
-names = data/obj-face-khangan.names
-backup = backup/
